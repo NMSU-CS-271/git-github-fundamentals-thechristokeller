@@ -6,7 +6,7 @@ Although I have used Git and GitHub before, I never really understood the distin
 
 ## What I'm still confused about
 
-This lesson explains well what all the parts of GitHub are, but not how precisely to use them.  The hyperlinked explanations go into more detail, but it would be nice to see it used in the context of our class, or at least GitHub Classroom, explicitly.  But I'm sure I can figure this out, and people can ask for help, so it's not totally critical.  It just feels like this lesson wasn't perfectly tailored to our class and its overwhelmingly beginner background.
+This lesson explains well what all the parts of GitHub are, but not how precisely to use them.  The hyperlinked explanations go into more detail, but it would be nice to see it used in the context of our class, or at least GitHub Classroom, explicitly.  But I'm sure I can figure this out, and people can ask for help, so it's not totally critical.  It just feels like this lesson wasn't perfectly tailored to our class.
 
 ---
 

@@ -1,3 +1,15 @@
+# My assignment 2 response
+
+## What I've learned about Git[Hub]
+
+Although I have used Git and GitHub before, I never really understood the distinction being made between the two.  Also, the complicated system of commit-push-pull was more of a formalism I was copy-pasting from websites and moving on with my life.  So reading a broad overview of how everything works was very helpful for me.  I did not know about some of the more obscure features either, like GitHub Projects and GitHub Explore.  I think getting everyone on the same page, including me, was a worthwhile experience and I was pleastantly surprised at the quality of GitHub Classroom lessons.  It makes sense in retrospect that GitHub would be a perfect place to run classes, but I never saw it done before.  It would be cool in fact to have progressive projects where you add features to a program in the same repository, using different commits as different assignments.  Anyway, I learned a lot even if this was less technical than the usual compsci class.
+
+## What I'm still confused about
+
+This lesson explains well what all the parts of GitHub are, but not how precisely to use them.  The hyperlinked explanations go into more detail, but it would be nice to see it used in the context of our class, or at least GitHub Classroom, explicitly.  But I'm sure I can figure this out, and people can ask for help, so it's not totally critical.  It just feels like this lesson wasn't perfectly tailored to our class and its overwhelmingly beginner background.
+
+---
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Assignment overview and learning outcomes 
